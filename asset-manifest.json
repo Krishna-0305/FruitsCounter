@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FruitsCounter/static/css/main.29d0b2c1.css",
+    "main.js": "/FruitsCounter/static/js/main.c6f93387.js",
+    "static/js/453.6ec98661.chunk.js": "/FruitsCounter/static/js/453.6ec98661.chunk.js",
+    "index.html": "/FruitsCounter/index.html",
+    "main.29d0b2c1.css.map": "/FruitsCounter/static/css/main.29d0b2c1.css.map",
+    "main.c6f93387.js.map": "/FruitsCounter/static/js/main.c6f93387.js.map",
+    "453.6ec98661.chunk.js.map": "/FruitsCounter/static/js/453.6ec98661.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29d0b2c1.css",
+    "static/js/main.c6f93387.js"
+  ]
+}
